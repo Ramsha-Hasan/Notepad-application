@@ -1,0 +1,18 @@
+#box
+{
+padding: 75px; 
+border:3px solid black; 
+border-radius: 25px; 
+width: 600px; 
+height: 250px;
+text-align: center;
+margin-top: 50px;
+margin-bottom: 50px;
+margin-right: 50px;
+margin-left: 50px;
+}
+
+h1
+{
+text-align: center;
+}
